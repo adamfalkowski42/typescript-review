@@ -1,0 +1,23 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falkowa42/typescript-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falkowa42/typescript-review/issues"
+  },
+  "homepage": "https://github.com/falkowa42/typescript-review#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
